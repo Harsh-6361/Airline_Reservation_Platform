@@ -28,17 +28,19 @@ The Airline Reservation System is a web-based application designed to facilitate
 
 
 2. Navigate to the project directory:
-'''bash
-cd airline-reservation-system
+    ```bash
+   cd airline-reservation-system
 
 
-3. Import the airline.sql file into your MySQL database to set up the required tables.
-4. Update the database connection settings in the PHP files as needed.
-5. Start a local server (e.g., XAMPP, WAMP) and access the application through your web browser.
 
-   #Usage
+
+4. Import the airline.sql file into your MySQL database to set up the required tables.
+5. Update the database connection settings in the PHP files as needed.
+6. Start a local server (e.g., XAMPP, WAMP) and access the application through your web browser.
+
+##Usage
 Open your web browser and navigate to http://localhost/airline-reservation-system/index.php to access the application.
 Follow the on-screen instructions to register, log in, and use the system.
 
-#Contributing
+##Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
