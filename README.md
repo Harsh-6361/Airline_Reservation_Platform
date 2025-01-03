@@ -24,4 +24,4 @@ The Airline Reservation System is a web-based application designed to facilitate
 ## Installation
 1. Clone the repository:
    ```bash
-   
+   gh repo clone Harsh-6361/Airline_Reservation_Platform
